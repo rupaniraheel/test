@@ -1,3 +1,5 @@
+this is my file second version
+
 listing_id,host_id,host_since_datekey,host_response_rate,host_acceptance_rate,host_is_superhost,host_total_listings_count,neighbourhood,city,latitude,longitude,property_type,accommodates,bedrooms,price,review_scores_rating,instant_bookable,listing_size_sqft
 46096773,349135088,20200608,,0.26,f,5,Enclos-St-Laurent,Paris,48.87928889,2.354539193,Room in hotel,0,,0,18,f,130.5655302
 44692017,361914459,20200812,,0.34,f,0,Palais-Bourbon,Paris,48.85427,2.30781,Room in boutique hotel,0,,0,88,f,286.8325852
